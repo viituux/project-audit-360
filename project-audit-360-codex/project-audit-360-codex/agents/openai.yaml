@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Audit 360"
+  short_description: "Auditoria rigorosa de código, produto, QA, segurança e UX/UI"
+  default_prompt: "Use $project-audit-360 no modo audit-full para avaliar este repositório em modo somente leitura, com evidências, scorecard, UX/UI e backlog priorizado."
