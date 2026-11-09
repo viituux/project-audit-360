@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Evolution 360"
+  short_description: "Auditoria 360°, evolução supervisionada e UX/UI anti-genérico"
+  default_prompt: "Use $project-evolution-360 para compreender este projeto, auditar seus riscos e propor melhorias priorizadas sem editar arquivos inicialmente."
